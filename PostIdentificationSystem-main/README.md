@@ -1,5 +1,5 @@
 # Smart AI Postal Optimizer
-The "Smart-Pincode-Validation-and-Correction System" enhances postal operations by validating addresses and ensuring accurate pincodes.  This system uses a combination of machine learning on the postal delivery dataset and geospatial analysis to automatically identify the most appropriate delivery post office and correct incorrect pin codes.  The system also supports handwritten and voice-based address inputs, parses them into structured data, and stores incorrect pincode entries for further review, improving overall postal accuracy.
+The "Smart AI Postal Optimizer" enhances postal operations by validating addresses and ensuring accurate pincodes.  This system uses a combination of machine learning on the postal delivery dataset and geospatial analysis to automatically identify the most appropriate delivery post office and correct incorrect pin codes.  The system also supports handwritten and voice-based address inputs, parses them into structured data, and stores incorrect pincode entries for further review, improving overall postal accuracy.
 
 
 # Features
